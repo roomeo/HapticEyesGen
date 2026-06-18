@@ -1,2 +1,2 @@
 # HapticEyesGen
-![HapticEyesGen](title/title.png)
+![HapticEyesGen](title.png)
